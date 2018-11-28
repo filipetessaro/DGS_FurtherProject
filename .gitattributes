@@ -3,3 +3,5 @@
 SM_VolumeFrustumUHQ.uasset filter=lfs diff=lfs merge=lfs -text
 ground_mud_no_puddle_nrm_8192.uasset filter=lfs diff=lfs merge=lfs -text
 ground_mud_no_puddle_rgm_8192.uasset filter=lfs diff=lfs merge=lfs -text
+T_Pinecones_Diffuse.uasset filter=lfs diff=lfs merge=lfs -text
+T_Pinecones_Normal.uasset filter=lfs diff=lfs merge=lfs -text
