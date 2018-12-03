@@ -12,3 +12,4 @@ T_Stone_06_BC.uasset filter=lfs diff=lfs merge=lfs -text
 T_Stone_09_BC.uasset filter=lfs diff=lfs merge=lfs -text
 T_Stone_10_BC.uasset filter=lfs diff=lfs merge=lfs -text
 T_Stone_11_BC.uasset filter=lfs diff=lfs merge=lfs -text
+T_env_sky_HDR.uasset filter=lfs diff=lfs merge=lfs -text
