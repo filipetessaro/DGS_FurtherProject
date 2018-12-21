@@ -1,0 +1,28 @@
+Hi there.
+
+Let´s start;
+
+1) First, go to: https://github.com and create your account.
+
+2) Then, go to https://desktop.github.com and download the GIT app
+
+3) Now, goes to https://git-lfs.github.com download and install as well
+
+4) After all that, go to: https://github.com/filipetessaro/DGS_FurtherProject
+click the gree button: "Clone or download" and select to "Open in Desktop.
+
+5) GitAPP will open automatically, if you created your account in github.com, it should connect automatically as well
+Select a folder to be your local repository and click in clone.
+
+6) Get a coffe, it is about 20GB of content...
+
+7) Also download and install UE4.21
+
+8) Check all the assets we have and have tons of fun :)
+Most contents I removed the Example and Overview Maps to decrease the project size. If you want I can send it to you separated.
+
+
+9) To be able to send commits to the server, you need to be a colaborator, if so, send me your git acc name so I can add you
+
+PS: Massive amount of wet/licking/messy kisses! :)
+
