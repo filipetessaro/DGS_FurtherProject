@@ -1,0 +1,15 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+*umap filter=lfs diff=lfs merge=lfs -text
+SM_VolumeFrustumUHQ.uasset filter=lfs diff=lfs merge=lfs -text
+ground_mud_no_puddle_nrm_8192.uasset filter=lfs diff=lfs merge=lfs -text
+ground_mud_no_puddle_rgm_8192.uasset filter=lfs diff=lfs merge=lfs -text
+T_Pinecones_Diffuse.uasset filter=lfs diff=lfs merge=lfs -text
+T_Pinecones_Normal.uasset filter=lfs diff=lfs merge=lfs -text
+T_Stone_02_BC.uasset filter=lfs diff=lfs merge=lfs -text
+T_Stone_03_BC.uasset filter=lfs diff=lfs merge=lfs -text
+T_Stone_05_BC.uasset filter=lfs diff=lfs merge=lfs -text
+T_Stone_06_BC.uasset filter=lfs diff=lfs merge=lfs -text
+T_Stone_09_BC.uasset filter=lfs diff=lfs merge=lfs -text
+T_Stone_10_BC.uasset filter=lfs diff=lfs merge=lfs -text
+T_Stone_11_BC.uasset filter=lfs diff=lfs merge=lfs -text
+T_env_sky_HDR.uasset filter=lfs diff=lfs merge=lfs -text
